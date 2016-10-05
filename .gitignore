@@ -1,0 +1,4 @@
+web/dist/**/*
+audio/**/*
+web/source/markdown/**/*
+web/source/audio/**/*
